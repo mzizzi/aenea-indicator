@@ -1,6 +1,6 @@
 # Aenea Indicator
 
-![aenea-green](../icons/aenea-green.png)![aenea-yellow](../icons/aenea-yellow.png)![aenea-red](../icons/aenea-red.png)
+![aenea-green](icons/aenea-green.png)![aenea-yellow](icons/aenea-yellow.png)![aenea-red](icons/aenea-red.png)
 
 When using [Aenea](https://github.com/dictation-toolbox/aenea) for dictation on
 linux it is sometimes frustrating to not know the state of the microphone.  
