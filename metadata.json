@@ -1,0 +1,7 @@
+{
+    "uuid": "aenea-indicator@com.mhzizzi",
+    "name": "Aenea Indicator",
+    "description": "Proxy Dragon microphone status to a Cinnamon Applet",
+    "icon": "aenea-dark",
+    "max-instances": "1"
+}
