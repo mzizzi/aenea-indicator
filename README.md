@@ -1,4 +1,4 @@
-# Aenea Indicator
+# Aenea Indicator Applet for the Cinnamon Desktop
 
 ![aenea-green](icons/aenea-green.png)![aenea-yellow](icons/aenea-yellow.png)![aenea-red](icons/aenea-red.png)
 
