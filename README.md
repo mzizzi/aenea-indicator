@@ -28,3 +28,15 @@ dbus-send \
   com.mhzizzi.AeneaIndicator.Interface.SetAppletIcon \
   string:green
 ```
+
+## Aenea server plugin component
+
+Drop the files from the `plugins` directory into Aenea's linux x11 server
+plugins directory.  This plugin will wait for RPC calls from the Aenea client
+to change indicator color.
+
+## Aenea aware grammar file
+
+Drop the `_indicator.py` grammar file into your MacroSystem folder to enable
+sending RPCs to the Aenea server.  This works by monkey-patching natlink's
+`natlinkmain.changeCallback` to include RPC calls.

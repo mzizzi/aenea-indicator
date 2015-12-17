@@ -1,0 +1,8 @@
+[Core]
+Name = aenea microhphone state indicator plugin
+Module = indicator_plugin
+
+[Documentation]
+Author = Matthew Zizzi
+Version = 0.1
+Description = Notify aenea server of dragon microphone state
